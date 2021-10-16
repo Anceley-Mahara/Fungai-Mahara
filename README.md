@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Anceley-Mahara
+-    I am a software developer by profession
 - 👀 I’m interested in programming, software development and AWS
 - 🌱 I’m currently learning AWS and machine learning
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 You can reach me via my email fungaimahara37@gmail.com
+- 📫 You can reach me via my email fungaimahara37@gmail.com should you want your projects to be done
 
 <!---
 Fungai-Mahara/Fungai-Mahara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
